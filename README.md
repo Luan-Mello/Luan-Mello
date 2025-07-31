@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou [Luan Mello] 👋</h1>
+  <h1>Olá, eu sou Luan Mello 👋</h1>
 </div>
 
 ## 🚀 Sobre mim  
@@ -24,7 +24,7 @@ Atualmente, estudo lógica de programação, JavaScript e frameworks modernos co
 
 ## 🎓 Conquistas e Certificações  
 - Estou estudando diariamente na [DIO](https://digitalinnovation.one/), atualmente focado em Lógica de Programação.
-
+- Cursando Analise e Desenvolvimento de Sistemas - UNIVALI.
 ---
 
 ## 📚 Estudos Atuais e Futuro  
