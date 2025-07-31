@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 Sobre mim  
-Estudante de ADS em Itajaí‑SC 🇧🇷  
+ Estudante de ADS em Itajaí‑SC 🇧🇷  
 Desde que comecei meus estudos, descobri que resolver problemas com código é algo que realmente me motiva e me faz querer aprender cada vez mais. 
 Tenho paixão por resolver problemas com tecnologia e busco sempre aprender novas linguagens e ferramentas para crescer como desenvolvedor.  
 Sou comunicativo, organizado e gosto de trabalhar em equipe para entregar soluções eficientes.
