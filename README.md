@@ -48,7 +48,7 @@ Hobbie em games, filmes, esportes radicais e aprecio momentos em familia no meu 
 
 ## 🌐 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seunome)  
-[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/seunome)
+
 
 ---
 
